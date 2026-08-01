@@ -1,7 +1,28 @@
 aid: premise
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/premise.png
 name: Premise
-description: Premise is a company surfaced as a portfolio company of a16z, anthemis, gv and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Premise is a global data-intelligence platform that combines machine learning
+  with a distributed network of on-the-ground human contributors to collect,
+  structure, and analyze local ground-truth data across 140+ countries. The
+  platform reports 6M+ contributors, 25M+ submissions per year, and 2.3M+ unique
+  points of interest, and serves three primary markets: precision mapping and
+  geospatial intelligence, international development, and public-sector
+  organizations. Premise is a portfolio company of a16z, Anthemis, and GV. As of
+  this profile it publishes no public developer API, OpenAPI specification,
+  SDKs, or developer portal; data is delivered through managed engagements and
+  its customer platform.
 url: https://raw.githubusercontent.com/api-evangelist/premise/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +34,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Data
+- Geospatial
+- Location Intelligence
+- Mapping
+- Data Collection
+- International Development
+- Public Sector
+- Market Research
+- Machine Learning
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,22 @@ maintainers:
 common:
 - type: Website
   url: https://premise.com
+- type: Blog
+  url: https://premise.com/blog/
+- type: Support
+  url: https://premisesupport.zendesk.com/hc/en-us
+- type: Login
+  url: https://my.premise.com
+- type: TermsOfService
+  url: https://tos.premise.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://tos.premise.com/privacy-policy/
+- type: DomainSecurity
+  url: security/premise-domain-security.yml
+- type: LLMsTxt
+  url: llms/premise-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

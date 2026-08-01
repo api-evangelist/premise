@@ -1,0 +1,24 @@
+# Premise
+
+> Premise is a global data-intelligence platform that combines machine learning with a distributed network of on-the-ground human contributors to collect, structure, and analyze local ground-truth data across 140+ countries. It serves precision mapping / geospatial intelligence, international development, and public-sector customers. As of this profile Premise publishes no public developer API, OpenAPI specification, SDKs, or developer portal; data is delivered through managed engagements and its platform login.
+
+## Company
+- [Premise homepage](https://premise.com): Company overview — "Data for Every Decision."
+- [Newsroom](https://premise.com/newsroom/): Company news and announcements.
+- [Case studies](https://premise.com/case-studies/): Customer outcomes across geospatial, development, and public sector.
+- [Resources](https://premise.com/resources/): Reports, guides, and webinars.
+
+## Platform
+- [Platform login](https://my.premise.com): Customer platform sign-in.
+- [Contributors platform](https://contributors.premise.com/): The contributor-facing data-collection app and program.
+
+## Docs
+- [Blog](https://premise.com/blog/): Company blog.
+- [Engineering blog](https://engineering.premise.com/): Premise engineering writing (hosted on Medium).
+- [Help center](https://premisesupport.zendesk.com/hc/en-us): Support for contributors and app users.
+- [Contact / schedule a demo](https://premise.com/get-in-touch/): Talk to sales for solutions, use cases, and pricing.
+
+## Legal
+- [Terms of use](https://tos.premise.com/terms-of-use/): Terms of use.
+- [Privacy policy](https://tos.premise.com/privacy-policy/): Privacy policy.
+- [Modern slavery statement](https://tos.premise.com/modern-slavery-statement/): Modern slavery statement.
