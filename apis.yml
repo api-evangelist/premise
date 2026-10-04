@@ -56,7 +56,7 @@ tags:
 - International Development
 - Public Sector
 - Market Research
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Data
@@ -68,6 +68,7 @@ tags_raw:
 - Public Sector
 - Market Research
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
